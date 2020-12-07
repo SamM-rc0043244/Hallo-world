@@ -34,12 +34,12 @@
             // 
             // button1
             // 
-            this.button1.BackColor = System.Drawing.Color.Orange;
-            this.button1.Location = new System.Drawing.Point(553, 349);
+            this.button1.BackColor = System.Drawing.Color.OrangeRed;
+            this.button1.Location = new System.Drawing.Point(537, 349);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(50, 36);
+            this.button1.Size = new System.Drawing.Size(66, 49);
             this.button1.TabIndex = 0;
-            this.button1.Text = "Hallo";
+            this.button1.Text = "Goodbye";
             this.button1.UseVisualStyleBackColor = false;
             this.button1.Click += new System.EventHandler(this.Button1_Click);
             // 
