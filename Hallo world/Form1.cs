@@ -24,7 +24,7 @@ namespace Hallo_world
 
         private void Button1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Hallo World");
+            MessageBox.Show("Hallo" + hallo.Text);
         }
     }
 }
